@@ -1,0 +1,14 @@
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/bin/Debug/net8.0/tes_ntt
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/bin/Debug/net8.0/tes_ntt.deps.json
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/bin/Debug/net8.0/tes_ntt.runtimeconfig.json
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/bin/Debug/net8.0/tes_ntt.dll
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/bin/Debug/net8.0/tes_ntt.pdb
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/tes_ntt.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/tes_ntt.AssemblyInfoInputs.cache
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/tes_ntt.AssemblyInfo.cs
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/tes_ntt.csproj.CoreCompileInputs.cache
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/tes_ntt.dll
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/refint/tes_ntt.dll
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/tes_ntt.pdb
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/tes_ntt.genruntimeconfig.cache
+/home/user/Documents/Buat Penempatan Kerja/net/tes_ntt/obj/Debug/net8.0/ref/tes_ntt.dll
